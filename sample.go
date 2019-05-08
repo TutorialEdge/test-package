@@ -1,11 +1,7 @@
-package main
+package sample
 
 import "fmt"
 
 func MySampleFunc() {
 	fmt.Println("Hello World")
-}
-
-func main() {
-	fmt.Println("Module Main Method")
 }
